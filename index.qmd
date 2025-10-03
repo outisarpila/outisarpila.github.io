@@ -1,0 +1,16 @@
+---
+title: "Outi Sarpila"
+subtitle: "Professor, Sociology"
+image: profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.coms
+---
+
+I am currently working as a professor of sociology at the University of Turku. \
+\
+I completed my Master's degree in Economic Sociology at the Turku School of Economics in 2007. In 2013, I successfully defended my PhD thesis on consumption related to appearance at the University of Turku, Faculty of Social Sciences.

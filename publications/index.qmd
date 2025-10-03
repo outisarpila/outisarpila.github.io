@@ -1,0 +1,21 @@
+---
+title: "Publications"
+listing:
+  contents: publications.yml
+  feed: true
+  sort: "description asc"
+  type: table
+  categories: false
+  sort-ui: [date, description]
+  filter-ui: true
+  date-format: YYYY
+  image-height: 50px
+  fields: [image, title, pdf, author, date, publication, categories]
+  field-display-names:
+    publication: "Publication"
+    date: "Year"
+    pdf: " "
+    categories: "Publication type"
+page-layout: full
+title-block-banner: false
+---
