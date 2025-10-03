@@ -1,0 +1,12 @@
+/* css styles */
+
+.sort {
+  font-weight: bold;
+}
+
+select#listing-listing-sort option:nth-child(2) {
+  display: none;
+}
+select#listing-listing-sort option:nth-child(2):after {
+  content: "Jussi";
+}
