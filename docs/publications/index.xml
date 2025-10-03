@@ -6,45 +6,45 @@
       version="2.0">
 <channel>
 <title>Outi Sarpila</title>
-<link>https://your-website-url.example.com/publications/</link>
-<atom:link href="https://your-website-url.example.com/publications/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://outisarpila.github.io/publications/</link>
+<atom:link href="https://outisarpila.github.io/publications/index.xml" rel="self" type="application/rss+xml"/>
 <description>Outi Sarpila</description>
 <generator>quarto-1.8.24</generator>
 <lastBuildDate>Mon, 01 Jan 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Appearance and Social Inequalities: Physical Attractiveness as a Part of Occupation-Congruent Appearance</title>
-  <link>https://your-website-url.example.com/</link>
+  <link>https://outisarpila.github.io/</link>
   <description>A1</description>
   <category>Peer-reviewed scientific journal</category>
-  <guid>https://your-website-url.example.com/</guid>
+  <guid>https://outisarpila.github.io/</guid>
   <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/image/soca_58_6.webp" medium="image" type="image/webp"/>
+  <media:content url="https://outisarpila.github.io/image/soca_58_6.webp" medium="image" type="image/webp"/>
 </item>
 <item>
   <title>Did the Pandemic Increase Social Media–Induced Appearance Pressures?</title>
-  <link>https://your-website-url.example.com/</link>
+  <link>https://outisarpila.github.io/</link>
   <description>A4</description>
   <category>Peer-reviewed conference publication</category>
-  <guid>https://your-website-url.example.com/</guid>
+  <guid>https://outisarpila.github.io/</guid>
   <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/image/sc_and_sm.webp" medium="image" type="image/webp"/>
+  <media:content url="https://outisarpila.github.io/image/sc_and_sm.webp" medium="image" type="image/webp"/>
 </item>
 <item>
   <title>Ruokakorikyselyn aineistoraportti. Kyselyaineiston keruuprosessin, edustavuuden ja muuttujien esittely</title>
-  <link>https://your-website-url.example.com/</link>
+  <link>https://outisarpila.github.io/</link>
   <description>D4</description>
   <category>Research publication</category>
-  <guid>https://your-website-url.example.com/</guid>
+  <guid>https://outisarpila.github.io/</guid>
   <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Ulkonäköyhteiskunta – Ulkoinen olemus pääomana 2000-luvun Suomessa</title>
-  <link>https://your-website-url.example.com/</link>
+  <link>https://outisarpila.github.io/</link>
   <description>E2</description>
   <category>Book</category>
-  <guid>https://your-website-url.example.com/</guid>
+  <guid>https://outisarpila.github.io/</guid>
   <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/image/ulkonakoyhteiskunta.png" medium="image" type="image/png"/>
+  <media:content url="https://outisarpila.github.io/image/ulkonakoyhteiskunta.png" medium="image" type="image/png"/>
 </item>
 </channel>
 </rss>

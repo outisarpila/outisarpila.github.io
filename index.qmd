@@ -6,10 +6,12 @@ about:
   template: trestles
   image-shape: round
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.coms
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/outisarpila.bsky.social
 ---
+
+THIS SITE IS UNDER CONSTRUCTION!
 
 I am currently working as a professor of sociology at the University of Turku. \
 \
